@@ -1,8 +1,8 @@
 
 
-<div align="center"><img src="https://user-images.githubusercontent.com/38654490/143868551-a7b1ecf1-02fc-4646-b631-bba1e60b8fb1.png" width="400px" align="right"/></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/38654490/143868551-a7b1ecf1-02fc-4646-b631-bba1e60b8fb1.png" width="320px" align="right"/></div>
 
-# Hello, word! I'm Felipe Santiago! 👋😃
+# HELLO, WORD!  I'm Felipe Santiago! 👋😃 
 
 :computer: I'm Front-End Developer!
 
