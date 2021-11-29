@@ -23,6 +23,26 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>  
 
+<h3>Where to find me</h3>
+<p><a href="https://github.com/santiagolipe" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-thebadge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/santiagolipe" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **santiagolipe/Santiagolipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
