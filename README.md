@@ -27,7 +27,7 @@
 
 ## Languages and tools: 
 [![santiagolipe GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagolipe&layout=compact)](https://github.com/santiagolipe/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagolipe&layout=compact)](https://github.com/santiagolipe/github-readme-stats)</p>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagolipe&layout=compact)](https://github.com/santiagolipe/github-readme-stats)--></p>
 
 
 <br><h3 align=center>Where to find me</h3>
