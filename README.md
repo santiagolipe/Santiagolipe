@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/38654490/143868551-a7b1ecf1-02fc-4646-b631-bba1e60b8fb1.png" width="350px" align="right"/></div>
 
-# HELLO, WORLD! <br>I'm Felipe Santiago!:nerd_face::computer:
+# HELLO, WORLD! :nerd_face::computer: <br>I'm Felipe Santiago!
 
 :computer: I'm Front-End Developer!
 
