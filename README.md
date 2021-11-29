@@ -6,6 +6,7 @@
 
 :books: I’m currently learning everything.
 
+![sizemini_92](https://user-images.githubusercontent.com/38654490/143868551-a7b1ecf1-02fc-4646-b631-bba1e60b8fb1.png)
 
 
 <!--
