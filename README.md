@@ -1,3 +1,7 @@
+
+
+<div align="center"><img src="https://user-images.githubusercontent.com/38654490/143868551-a7b1ecf1-02fc-4646-b631-bba1e60b8fb1.png" width="500px" align="right"/></div>
+
 # Hey, i'm Felipe Santiago! 👋😃💻
 
 :computer: I'm Front-End Developer!
@@ -5,9 +9,6 @@
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.
-
-![sizemini_92](https://user-images.githubusercontent.com/38654490/143868551-a7b1ecf1-02fc-4646-b631-bba1e60b8fb1.png)
-
 
 <!--
 **santiagolipe/Santiagolipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
