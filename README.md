@@ -1,6 +1,6 @@
 
 
-<div align="right"><img src="https://user-images.githubusercontent.com/38654490/143868551-a7b1ecf1-02fc-4646-b631-bba1e60b8fb1.png" width="350px" align="left"/></div>
+<img src="https://user-images.githubusercontent.com/38654490/143868551-a7b1ecf1-02fc-4646-b631-bba1e60b8fb1.png" width="350px" align="right"/></div>
 
 # HELLO, WORLD!  I'm Felipe Santiago!👋😃 
 
