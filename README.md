@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/38654490/143868551-a7b1ecf1-02fc-4646-b631-bba1e60b8fb1.png" width="350px" align="right"/></div>
 
-# HELLO, WORLD!  I'm Felipe Santiago!👋😃 
+# HELLO, WORLD!  I'm Felipe Santiago!:nerd_face::computer:
 
 :computer: I'm Front-End Developer!
 
@@ -22,6 +22,7 @@
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
   <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
   <img alt="mysql" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+  <img alt="php" src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=php" />
   </>
 </p>  
 
