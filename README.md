@@ -4,7 +4,7 @@
 
 # HELLO, WORLD! :nerd_face::computer: <br>I'm Felipe Santiago!
 
-:computer: I'm Front-End Developer!
+:computer: I'm Full Stack Developer!
 
 :house_with_garden: I’m from Brazil.
 
